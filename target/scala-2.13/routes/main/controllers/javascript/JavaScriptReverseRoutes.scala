@@ -27,29 +27,9 @@ package controllers.javascript {
       """
     )
   
-    // @LINE:8
-    def explore: JavaScriptReverseRoute = JavaScriptReverseRoute(
-      "controllers.HomeController.explore",
-      """
-        function() {
-          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "explore"})
-        }
-      """
-    )
-  
-    // @LINE:9
-    def tutorial: JavaScriptReverseRoute = JavaScriptReverseRoute(
-      "controllers.HomeController.tutorial",
-      """
-        function() {
-          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "tutorial"})
-        }
-      """
-    )
-  
   }
 
-  // @LINE:13
+  // @LINE:11
   class ReverseAssets(_prefix: => String) {
 
     def _defaultPrefix: String = {
@@ -57,7 +37,7 @@ package controllers.javascript {
     }
 
   
-    // @LINE:13
+    // @LINE:11
     def versioned: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.Assets.versioned",
       """

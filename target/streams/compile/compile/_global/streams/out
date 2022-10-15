@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Ayaz\Desktop\Semmster5\WA\Play\app\views\index.scala.html:3:2: not found: value main[0m
+[0m[[0m[31merror[0m] [0m[0m@main("Welcome to Play Schwimmen") {[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

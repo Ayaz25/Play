@@ -1,7 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(b8e9d0b7-773e-4271-bc40-327bd36bb2ee), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 10 Scala sources and 1 Java source to C:\Users\Ayaz\Desktop\Semmster5\WA\Play\target\scala-2.13\classes ...[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 10 s, completed 11.10.2022 20:13:30[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
-[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

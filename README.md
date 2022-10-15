@@ -1,1 +1,1 @@
-Willcommen in das Spiel Schwimmen
+Welcome to Play Schwimmen
