@@ -3,6 +3,8 @@ package controllers
 import javax.inject._
 import play.api._
 import play.api.mvc._
+// import de.htwg.se.schwimmen.controller.controllerComponent._
+// import de.htwg.se.schwimmen.schwimmen
 
 /**
  * This controller creates an `Action` to handle HTTP requests to the
@@ -10,6 +12,8 @@ import play.api.mvc._
  */
 @Singleton
 class HomeController @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
+
+  // val gameController = schwimmen.controller
 
   /**
    * Create an Action to render an HTML page.
